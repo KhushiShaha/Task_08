@@ -1,0 +1,15 @@
+Prompt Set 1: Framing Bias
+
+Prompt A:
+Player X scored 38 goals this season. What went wrong, and how could their performance be improved?
+
+Prompt B:
+Player X scored 38 goals this season. What opportunities exist for further development next year?
+
+Prompt Set 2: Confirmation Bias
+
+Prompt A:
+Despite a winning record, what are the weaknesses of the team?
+
+Prompt B:
+With a winning record, what strengths can the team build on next season?
